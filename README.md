@@ -1,4 +1,6 @@
 # Hack Days Rhein Neckar 2020
+<img src="https://user-images.githubusercontent.com/44790691/75123166-4b3b6e00-56a5-11ea-993c-915c1e94a74b.png" height="150px">
+
 Repo for the Hack-Days 2020.
 
 ### Challenge: Schäbisch Hall - Bausparen in the 21st Century
