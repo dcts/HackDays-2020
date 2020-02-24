@@ -10,8 +10,8 @@ Repo for the Hack-Days 2020.
 **Company**: [Schwäbisch Hall](https://www.schwaebisch-hall.de/) is the largest German institution to offer contractual savings for housing. With 7.2 Mio. people it has the largest Bauspar-customer base. As a provider of financial services for the private housing industry it is firmly anchored in the cooperative banking sector. Together with Schwäbisch Hall's sales force of approximately 3.300 representatives, qualified advice and customer care is guaranteed.
 
 ### Mind Map
-- mini game?
-- cute illustrations that help educating/onboarding the users. For example [Headspace explenation video](https://www.youtube.com/watch?v=iN6g2mr0p3Q)
-- copy the concept of [VIAC](https://viac.ch/), a swiss app that lets you sign a savings agreement with just a few clicks and also allows to stat with as few as 1$ per month!
+- **Mini game**: gamify either the onboarding procedure somehow to make it more fun. Or make a game hat somehow promotes saving contracts. A great example of gamifying the promotion of eco friendly drving is [EcoDriver](https://play.google.com/store/apps/details?id=ch.qualityAlliance.EcoDriver&hl=en).
+- cute **illustrations** that help educating/onboarding the users. For example [Headspace explenation video](https://www.youtube.com/watch?v=iN6g2mr0p3Q) -> awesome designer needed or hire/outsource via [fiverr](https://www.fiverr.com/)
+- copy the concept of [VIAC](https://viac.ch/), an app that lets you sign a swiss savings agreement with just a few clicks and also allows to stat with as few as 1$ per month! Landing page looks dope and could be used as template (modifiy & adapt). 
 
 
